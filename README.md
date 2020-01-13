@@ -8,5 +8,5 @@ This is a sample realtime chat application build by using
 
 
 ## DEMO
-Click to see it in action
+### Click to see it in action
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/WV5JbCreRm8/0.jpg)](https://youtu.be/WV5JbCreRm8)
