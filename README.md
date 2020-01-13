@@ -6,8 +6,5 @@ This is a sample realtime chat application build by using
     4. nodejs
 
 
-### DEMO
-<video controls="controls">
-  <source type="video/mov" src="demo.mov"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
+## DEMO
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/WV5JbCreRm8/0.jpg)](https://youtu.be/WV5JbCreRm8)
