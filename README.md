@@ -7,6 +7,7 @@ This is a sample realtime chat application build by using
 
 
 ### DEMO
-<video autosize=true controls>
-  <source src="demo.mov" type="video/mp4">
+<video controls="controls">
+  <source type="video/mov" src="demo.mov"></source>
+  <p>Your browser does not support the video element.</p>
 </video>
